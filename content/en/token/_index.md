@@ -66,3 +66,4 @@ AKT is available on the following exchanges:
 | [Gate.io](https://www.gate.io/trade/AKT_USDT) 🇺🇸 | 
 | [AscendEX](https://www.ascendex.com/en/trade/spot/akt_usdt) 🌎 | 
 | [Huobi Global](https://www.huobi.com/en-us/exchange/akt_usdt/) 🌎 |
+| [Hotbit](https://www.hotbit.io/) 🌎 |
